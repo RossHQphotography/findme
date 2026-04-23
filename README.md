@@ -13,9 +13,9 @@ Add the source code to your web hosting
 
 ### STEP 3 - REQUIRED SETUP
 Open create.php and change the URL to your own hosting URL in this format:
-\n https://YOUR_SITE_URL/user.php?id=
-\n MAKE SURE TO INCLUDE /user.php?id=
-\n EXAMPLE:     "url" => "https://rosshq.mcsite.ws/findme/user.php?id=" . $id
+https://YOUR_SITE_URL/user.php?id=
+MAKE SURE TO INCLUDE /user.php?id=
+EXAMPLE:     "url" => "https://rosshq.mcsite.ws/findme/user.php?id=" . $id
 
 ### STEP 4 - THE FUN PART
 Take your photos
